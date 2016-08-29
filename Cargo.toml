@@ -14,4 +14,4 @@ documentation = "https://myfreeweb.github.io/autodocs/colorhash256/colorhash256"
 name = "colorhash256"
 
 [dependencies]
-sodiumoxide = "*"
+tiny-keccak = "^1.1.1"
